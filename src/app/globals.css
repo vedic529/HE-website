@@ -182,3 +182,5 @@ h1,h2,h3,h4{font-family:Georgia,serif}
 .highlights-grid p,.course-card-footer small{font-size:.88rem}
 .meta-box span,.policy-item small{font-size:.8rem}
 @media(max-width:1100px){.menu-toggle{display:block}.navigation{display:none;position:absolute;top:100%;left:0;right:0;margin-left:0;padding:18px 30px 24px;background:#fff;flex-direction:column;align-items:stretch;gap:3px;box-shadow:0 18px 30px rgba(18,36,60,.14)}.navigation.open{display:flex}.nav-link{font-size:1rem;padding:10px 0}.site-search{margin-left:auto}}
+.hero-mark-frame{width:min(370px,80%);aspect-ratio:1;display:grid;place-items:center;border-radius:50%;background:radial-gradient(circle at 42% 34%,#fffdf8 0%,#f2eee5 68%,#e8dfca 100%);border:1px solid rgba(213,181,111,.65);box-shadow:0 30px 80px rgba(3,14,34,.22),inset 0 0 0 14px rgba(255,255,255,.35)}
+.hero-mark-frame img{display:block;width:65%;height:65%;object-fit:contain;filter:drop-shadow(0 8px 8px rgba(18,39,68,.1))}
