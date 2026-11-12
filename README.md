@@ -52,7 +52,7 @@ npm run dev
 - Optional LMS configuration: `NEXT_PUBLIC_LMS_URL=https://your-verified-lms.example` in `.env.local`.
 
 ## Before a public launch
-This is an **application-stage preview**, not a certification of full regulatory compliance or a production-ready student information system. The site is intentionally `noindex` until `NEXT_PUBLIC_SITE_READY=true` is set following formal approvals and completion of disclosures. Read `REGULATORY_GAPS.md` before launching it publicly.
+This is an **application-stage preview**, not a certification of full regulatory compliance or a production-ready student information system. The site is intentionally `noindex` until `NEXT_PUBLIC_SITE_READY=true` is set following formal approvals and completion of disclosures. Read `REGULATORY_GAPS.md` before launching it publicly. On Vercel, the expression-of-interest form is unavailable until durable storage and approved privacy arrangements are configured; the local file-based form cannot retain submissions on Vercel Functions.
 
 Before collecting public expressions of interest, NIBT must approve a privacy notice, storage/retention procedures and security controls. The local encrypted file storage is a demonstration solution only: it does not provide user identity management, enterprise audit logs, backups, disaster recovery or reliable storage on serverless deployments. A production deployment requires an institution-controlled database and adequate hosting/security arrangements.
 

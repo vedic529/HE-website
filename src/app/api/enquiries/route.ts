@@ -7,6 +7,7 @@ export const dynamic='force-dynamic';
 const limits=new Map<string,{count:number;since:number}>();
 function fail(message:string,status=400){return NextResponse.json({message},{status,headers:{'Cache-Control':'no-store'}});}
 export async function POST(request:NextRequest){
+ if(process.env.VERCEL)return fail('Online enquiries are not available yet.',503);
  const origin=request.headers.get('origin');if(origin){let a:URL;try{a=new URL(origin)}catch{return fail('Invalid origin',403)}if(a.host!==request.nextUrl.host)return fail('Cross-origin submissions are not allowed.',403);}
  const len=Number(request.headers.get('content-length')||0);if(len>10000)return fail('Request exceeds permitted size.',413);
  if(!(request.headers.get('content-type')||'').startsWith('application/json'))return fail('Expected JSON submission.',415);
