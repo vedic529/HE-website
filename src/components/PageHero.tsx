@@ -1,0 +1,2 @@
+import type {ReactNode} from "react";
+export default function PageHero({eyebrow,title,children}:{eyebrow:string;title:string;children?:ReactNode}){return <section className="page-hero"><div className="container"><div className="eyebrow on-dark">{eyebrow}</div><h1>{title}</h1>{children&&<p className="hero-subtitle">{children}</p>}</div><div className="page-hero-ornament" aria-hidden="true"/></section>}

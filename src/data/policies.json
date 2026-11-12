@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "Admissions Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 2,
+    "name": "English Language Proficiency Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 3,
+    "name": "Student Rights and Responsibilities Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 4,
+    "name": "Student Conduct and Non-Academic Misconduct Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "NYS",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 5,
+    "name": "Student Fees and Charges Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "NYS",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 6,
+    "name": "Offers and Acceptance Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 7,
+    "name": "Enrolment Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 8,
+    "name": "Tuition Protection Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 9,
+    "name": "Refunds Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 10,
+    "name": "Course Participation Requirements Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 11,
+    "name": "Credit and Recognition of Prior Learning Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 12,
+    "name": "Credit Integrity Policy and Procedures",
+    "category": "Admissions and Enrolment",
+    "registerStatus": "WIP",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 13,
+    "name": "Orientation Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 14,
+    "name": "Student Support Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 15,
+    "name": "Assessment Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 16,
+    "name": "Assessment Moderation and Validation Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 17,
+    "name": "Examinations and Invigilation Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 18,
+    "name": "Academic Progress Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 19,
+    "name": "Learning Outcomes Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 20,
+    "name": "Graduate Outcomes Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 21,
+    "name": "Grading and Results Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 22,
+    "name": "Course Learning Outcomes Assurance Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 23,
+    "name": "Special Consideration Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 24,
+    "name": "Qualifications Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 25,
+    "name": "Graduation Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 26,
+    "name": "Certificate Issuance Policies and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 27,
+    "name": "Revocation and Surrender of Awards Policy and Procedures",
+    "category": "Academic Policies",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 28,
+    "name": "Facilities Policy and Procedures",
+    "category": "Facilities and Technology",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 29,
+    "name": "Information Technology (IT) Access Policy and Procedures",
+    "category": "Facilities and Technology",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 30,
+    "name": "Information Technology Acceptable Use Policy and Procedures",
+    "category": "Facilities and Technology",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 31,
+    "name": "Equity and Diversity Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 32,
+    "name": "Anti-Racism and Anti-Religious Vilification Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 33,
+    "name": "Bullying, Harassment, Discrimination and Victimisation Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 34,
+    "name": "Aboriginal and Torres Strait Islander Participation Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 35,
+    "name": "Student Wellbeing Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 36,
+    "name": "Students with Disability and Reasonable Adjustments Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 37,
+    "name": "Student Fitness to Study Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 38,
+    "name": "Gender-Based Violence and Sexual Harm Prevention and Response Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 39,
+    "name": "Student Support Services Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 40,
+    "name": "Critical Incident Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 41,
+    "name": "Student Complaints and Appeal Policy and Procedures",
+    "category": "Student Rights, Equity and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 42,
+    "name": "Course Design and Development Policy and Procedures",
+    "category": "Complaints and Appeals",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 43,
+    "name": "Work-Integrated Learning and Placement Policy and Procedures",
+    "category": "Academic Quality and Placements",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 44,
+    "name": "Workforce Planning and Staffing Policy and Procedures",
+    "category": "Academic Quality and Placements",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 45,
+    "name": "Staff Professional Development Policy and Procedures",
+    "category": "Staff and Institutional Management",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 46,
+    "name": "Learning Management System Policy and Procedures",
+    "category": "Staff and Institutional Management",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 47,
+    "name": "Library and Learning Resources Policy and Procedures",
+    "category": "Learning Resources and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  },
+  {
+    "id": 48,
+    "name": "Learning Support Policy and Procedures",
+    "category": "Learning Resources and Support",
+    "registerStatus": "Not confirmed",
+    "publicationStatus": "Pending approved publication",
+    "url": null
+  }
+]

@@ -1,0 +1,539 @@
+[
+  {
+    "slug": "bachelor-data-science",
+    "title": "Bachelor of Data Science",
+    "level": "AQF Level 7",
+    "duration": "3 years (indicative; final duration to be confirmed)",
+    "fee": "AUD $40,000",
+    "feeNote": "Whether this is a total course fee or an annual fee is to be confirmed.",
+    "intro": "A proposed undergraduate course exploring computing, statistics, artificial intelligence, data engineering and responsible applications of data science.",
+    "overview": [
+      "Core foundations in computing, programming and quantitative methods",
+      "Applied AI and data engineering subjects",
+      "Project-based study and professional practice components"
+    ],
+    "structure": [
+      {
+        "code": "AID101",
+        "name": "Academic and Professional Practice for Computing and Data Science",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID102",
+        "name": "Programming for Data Science",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID103",
+        "name": "Mathematics for AI and Data Science",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID104",
+        "name": "Statistics and Data Literacy",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID105",
+        "name": "Computing Systems and Digital Tools",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID106",
+        "name": "Data Science Foundations",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID107",
+        "name": "Database Systems and SQL for Data Work",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID108",
+        "name": "Foundations of AI and ML",
+        "creditPoints": 8,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID109",
+        "name": "Data Visualisation and Exploratory Analytics",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID110",
+        "name": "Data Wrangling and Preparation",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID111",
+        "name": "Software Development for Data Applications",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID201",
+        "name": "Algorithms and Data Structures for AI",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID202",
+        "name": "Introduction to Data Engineering",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID203",
+        "name": "Applied AI and ML",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID204",
+        "name": "Foundation Cloud Data Platforms",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID205",
+        "name": "Responsible AI, Data Privacy and Governance",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID206",
+        "name": "Research Methods and Experimental Design for AI",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID207",
+        "name": "Deep Learning and Neural Networks",
+        "creditPoints": 8,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID208",
+        "name": "AI Systems Engineering and APIs",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID209",
+        "name": "Data Pipelines and Big Data Processing",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID210",
+        "name": "Statistical Modelling and Forecasting",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "ELEC201",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Elective"
+      },
+      {
+        "code": "AID301",
+        "name": "Advanced Machine Learning and Model Evaluation",
+        "creditPoints": 8,
+        "period": "Year 3, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID302",
+        "name": "MLOps and AI Operations",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID303",
+        "name": "AI Security, Assurance and Explainability",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "AID304",
+        "name": "Natural Language Processing and Generative AI",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "ELEC301",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 1",
+        "kind": "Elective"
+      },
+      {
+        "code": "AID305",
+        "name": "Work-Integrated Learning: AI and Data Science Studio",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID306",
+        "name": "Capstone Project: AI and Data Science Solution",
+        "creditPoints": 8,
+        "period": "Year 3, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "AID307",
+        "name": "Professional Portfolio and Career Readiness",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "ELEC302",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 2",
+        "kind": "Elective"
+      },
+      {
+        "code": "ELEC303",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 3, Semester 2",
+        "kind": "Elective"
+      }
+    ],
+    "electiveOptions": [
+      {
+        "code": "RAG201",
+        "name": "AI Law, Policy and Regulation",
+        "creditPoints": 4,
+        "availableFor": "ELEC201 or ELEC301",
+        "kind": "Elective"
+      },
+      {
+        "code": "RAG301",
+        "name": "Data Security and Privacy Engineering",
+        "creditPoints": 4,
+        "availableFor": "ELEC201 or ELEC301",
+        "kind": "Elective"
+      },
+      {
+        "code": "RAG302",
+        "name": "AI Audit and Assurance Practice",
+        "creditPoints": 4,
+        "availableFor": "ELEC302 or ELEC303",
+        "kind": "Elective"
+      },
+      {
+        "code": "RAG303",
+        "name": "Human-Centred AI and Socio-Technical Systems",
+        "creditPoints": 4,
+        "availableFor": "ELEC302 or ELEC303",
+        "kind": "Elective"
+      },
+      {
+        "code": "GAI201",
+        "name": "Enterprise Generative AI Use Cases",
+        "creditPoints": 4,
+        "availableFor": "ELEC201 or ELEC301",
+        "kind": "Elective"
+      },
+      {
+        "code": "GAI301",
+        "name": "Retrieval-Augmented Generation Applications",
+        "creditPoints": 4,
+        "availableFor": "ELEC201 or ELEC301",
+        "kind": "Elective"
+      },
+      {
+        "code": "GAI302",
+        "name": "Generative AI Evaluation, Safety and Content Controls",
+        "creditPoints": 4,
+        "availableFor": "ELEC302 or ELEC303",
+        "kind": "Elective"
+      },
+      {
+        "code": "GAI303",
+        "name": "AI for Knowledge Work and Automation",
+        "creditPoints": 4,
+        "availableFor": "ELEC302 or ELEC303",
+        "kind": "Elective"
+      }
+    ],
+    "accreditation": "Accreditation application proposed; not yet accredited",
+    "cricos": "Not currently authorised for enrolment of international students on Australian student visas"
+  },
+  {
+    "slug": "master-data-science",
+    "title": "Master of Data Science",
+    "level": "AQF Level 9",
+    "duration": "2 years (indicative; final duration to be confirmed)",
+    "fee": "AUD $45,000",
+    "feeNote": "Whether this is a total course fee or an annual fee is to be confirmed.",
+    "intro": "A proposed postgraduate course focusing on advanced data analytics, machine learning, research methods, governance and applied projects.",
+    "overview": [
+      "Advanced analytical and machine-learning methods",
+      "Research, responsible AI and governance",
+      "Capstone and industry-oriented study components"
+    ],
+    "structure": [
+      {
+        "code": "MDS401",
+        "name": "Data Science Foundations",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS402",
+        "name": "Programming for Data Science",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS403",
+        "name": "Statistical Methods for Data Science",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS404",
+        "name": "Data Management and SQL Systems",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS405",
+        "name": "Research and Professional Practice for Data Science",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS406",
+        "name": "Data Ethics, Privacy and Governance Foundations",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS407",
+        "name": "Data Wrangling and Reproducible Analytics",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS408",
+        "name": "Data Visualisation and Communication",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS409",
+        "name": "Machine Learning Foundations",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS410",
+        "name": "Cloud Data Engineering and Platforms",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS411",
+        "name": "Applied Research Methods and Experimental Design",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS412",
+        "name": "Analytics for Organisational Decision-Making",
+        "creditPoints": 4,
+        "period": "Year 1, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS501",
+        "name": "Advanced Machine Learning and Predictive Modelling",
+        "creditPoints": 8,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS502",
+        "name": "Artificial Intelligence for Data Science",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS503",
+        "name": "Big Data Analytics and Distributed Processing",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS504",
+        "name": "Responsible AI and Advanced Data Governance",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Core"
+      },
+      {
+        "code": "ELEC501",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 1",
+        "kind": "Elective"
+      },
+      {
+        "code": "MDS505",
+        "name": "MLOps, Model Deployment and Monitoring",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS506",
+        "name": "Data Science Capstone Project",
+        "creditPoints": 8,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "MDS507",
+        "name": "Industry Data Science Studio",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Core"
+      },
+      {
+        "code": "ELEC502",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Elective"
+      },
+      {
+        "code": "ELEC503",
+        "name": "Elective subject (selection to be confirmed)",
+        "creditPoints": 4,
+        "period": "Year 2, Semester 2",
+        "kind": "Elective"
+      }
+    ],
+    "electiveOptions": [
+      {
+        "code": "DEC501",
+        "name": "Advanced Data Engineering",
+        "creditPoints": 4,
+        "availableFor": "ELEC501",
+        "kind": "Elective"
+      },
+      {
+        "code": "DEC502",
+        "name": "Cloud Analytics Architecture",
+        "creditPoints": 4,
+        "availableFor": "ELEC502",
+        "kind": "Elective"
+      },
+      {
+        "code": "DEC503",
+        "name": "Data Security and Privacy Engineering",
+        "creditPoints": 4,
+        "availableFor": "ELEC503",
+        "kind": "Elective"
+      },
+      {
+        "code": "BAI501",
+        "name": "Business Analytics Strategy and Decision Systems",
+        "creditPoints": 4,
+        "availableFor": "ELEC501",
+        "kind": "Elective"
+      },
+      {
+        "code": "BAI502",
+        "name": "Decision Optimisation and Simulation",
+        "creditPoints": 4,
+        "availableFor": "ELEC502",
+        "kind": "Elective"
+      },
+      {
+        "code": "BAI503",
+        "name": "Data Storytelling for Executive Decision-Making",
+        "creditPoints": 4,
+        "availableFor": "ELEC503",
+        "kind": "Elective"
+      },
+      {
+        "code": "RAG501",
+        "name": "AI Law, Policy and Regulation",
+        "creditPoints": 4,
+        "availableFor": "ELEC501",
+        "kind": "Elective"
+      },
+      {
+        "code": "RAG502",
+        "name": "AI Audit and Assurance Practice",
+        "creditPoints": 4,
+        "availableFor": "ELEC502",
+        "kind": "Elective"
+      },
+      {
+        "code": "RAG503",
+        "name": "Human-Centred AI and Socio-Technical Systems",
+        "creditPoints": 4,
+        "availableFor": "ELEC503",
+        "kind": "Elective"
+      }
+    ],
+    "accreditation": "Accreditation application proposed; not yet accredited",
+    "cricos": "Not currently authorised for enrolment of international students on Australian student visas"
+  }
+]

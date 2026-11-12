@@ -1,0 +1,1 @@
+export default function Notice(){return <aside className="regulatory-notice" aria-label="Website update"><div className="container notice-content"><p>We are currently updating our website</p></div></aside>}
