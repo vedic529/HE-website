@@ -185,3 +185,4 @@ h1,h2,h3,h4{font-family:Georgia,serif}
 .hero-mark-frame{width:min(370px,80%);aspect-ratio:1;display:grid;place-items:center;border-radius:50%;background:radial-gradient(circle at 42% 34%,#fffdf8 0%,#f2eee5 68%,#e8dfca 100%);border:1px solid rgba(213,181,111,.65);box-shadow:0 30px 80px rgba(3,14,34,.22),inset 0 0 0 14px rgba(255,255,255,.35)}
 .hero-mark-frame img{display:block;width:65%;height:65%;object-fit:contain;filter:drop-shadow(0 8px 8px rgba(18,39,68,.1))}
 .brand img,.hero-mark-frame img{user-select:none;-webkit-user-drag:none}
+.fee-currency-note{margin:42px 0 26px;padding-top:16px;border-top:1px solid var(--border);font-size:.9rem;color:var(--copy)}

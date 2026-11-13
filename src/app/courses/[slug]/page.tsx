@@ -2,6 +2,7 @@ import Link from "next/link";
 import type {Metadata} from "next";
 import {notFound} from "next/navigation";
 import PageHero from "@/components/PageHero";
+import FeeCurrencyNote from "@/components/FeeCurrencyNote";
 import {courses} from "@/lib/data";
 
 export function generateStaticParams(){return courses.map(c=>({slug:c.slug}));}
@@ -59,7 +60,7 @@ export default async function CourseDetail({params}:{params:Promise<{slug:string
     </details>
     <details className="course-accordion">
      <summary>Fees and payment details</summary>
-     <div className="accordion-body"><p><strong>Indicative fee:</strong> {c.fee}. {c.feeNote}</p><p>NIBT needs to confirm the total and annual tuition fees, payment schedule, other charges and refund information before enrolment opens.</p><Link className="text-link" href="/admissions">Fees and admissions ↗</Link></div>
+     <div className="accordion-body"><p><strong>Indicative fee:</strong> {c.fee}.</p><p>Payment schedule, other charges and refund information will be published before enrolment opens.</p><Link className="text-link" href="/admissions">Fees and admissions ↗</Link></div>
     </details>
     <details className="course-accordion">
      <summary>Accreditation, AQF and student visa status</summary>
@@ -85,6 +86,7 @@ export default async function CourseDetail({params}:{params:Promise<{slug:string
    </section>
    <div className="compact-cta"><h3>Interested in this course?</h3><p>You may register an expression of interest. This is not a formal admission application or an offer of enrolment.</p><Link href="/admissions" className="button button-navy">Admissions and expression of interest →</Link></div>
    <Link href="/courses" className="back-link">← Back to all courses</Link>
+   <FeeCurrencyNote/>
   </div>
  </>;
 }

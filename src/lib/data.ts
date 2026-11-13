@@ -2,7 +2,7 @@ import rawCourses from "@/data/courses.json";
 import rawPolicies from "@/data/policies.json";
 export type Unit = {code:string;name:string;creditPoints:number|null;period:string;kind:string};
 export type ElectiveOption={code:string;name:string;creditPoints:number|null;availableFor:string;kind:string};
-export type Course={slug:string;title:string;level:string;duration:string;fee:string;feeNote:string;intro:string;overview:string[];structure:Unit[];electiveOptions:ElectiveOption[];accreditation:string;cricos:string};
+export type Course={slug:string;title:string;level:string;duration:string;fee:string;intro:string;overview:string[];structure:Unit[];electiveOptions:ElectiveOption[];accreditation:string;cricos:string};
 export type Policy={id:number;name:string;category:string;registerStatus:string;publicationStatus:string;url:string|null};
 export const courses = rawCourses as Course[];
 export const policies = rawPolicies as Policy[];

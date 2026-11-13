@@ -4,8 +4,7 @@
     "title": "Bachelor of Data Science",
     "level": "AQF Level 7",
     "duration": "3 years (indicative; final duration to be confirmed)",
-    "fee": "AUD $40,000",
-    "feeNote": "Whether this is a total course fee or an annual fee is to be confirmed.",
+    "fee": "$40,000 per year",
     "intro": "A proposed undergraduate course exploring computing, statistics, artificial intelligence, data engineering and responsible applications of data science.",
     "overview": [
       "Core foundations in computing, programming and quantitative methods",
@@ -304,8 +303,7 @@
     "title": "Master of Data Science",
     "level": "AQF Level 9",
     "duration": "2 years (indicative; final duration to be confirmed)",
-    "fee": "AUD $45,000",
-    "feeNote": "Whether this is a total course fee or an annual fee is to be confirmed.",
+    "fee": "$45,000 per year",
     "intro": "A proposed postgraduate course focusing on advanced data analytics, machine learning, research methods, governance and applied projects.",
     "overview": [
       "Advanced analytical and machine-learning methods",

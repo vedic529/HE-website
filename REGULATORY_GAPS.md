@@ -30,7 +30,7 @@
 - **Professional registration:** Determine whether any professional-body recognition is required to practise; display verified result. Do not imply recognition without evidence.
 - **International authorisation:** Proposed international market does not mean CRICOS authorisation. Not authorised for overseas student visa enrolments unless approved.
 - **Duration:** Source subject lists indicate six Bachelor semesters and four Master semesters. Formal duration, full-/part-time options and modes of delivery require approved course details.
-- **Fees:** AUD $40,000 Bachelor and AUD $45,000 Master supplied. Confirm **total course versus annual fee**, other charges, payment plans and refund conditions.
+- **Fees:** $40,000 per year for the Bachelor and $45,000 per year for the Master supplied. Confirm other charges, payment plans and refund conditions.
 - **Credit/RPL and articulation:** Publish approved policy and information channel once completed.
 - **Course design inconsistency:** Bachelor elective slot descriptions sometimes say 5 CP but numeric column records 4 CP; the Master elective narrative refers to 5/4/3 CP while numeric slots and available electives record 4 CP. The prototype uses 4 CP for all numbered elective placeholders in the provided tables, without adopting inconsistent text. Reconcile against definitive approved course designs before publication.
 - **Entry:** Publish course-specific academic and English language selection criteria. Website currently uses clearly labelled pending information.
